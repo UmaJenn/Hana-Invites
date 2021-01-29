@@ -1,0 +1,7 @@
+{
+    "owners": "owner-id-only",
+    "logging": "logging-channel-for-server-joins",
+    "server": "insert-your-main-server-id",
+    "prefix": ";",
+    "activity": "games!"
+}
